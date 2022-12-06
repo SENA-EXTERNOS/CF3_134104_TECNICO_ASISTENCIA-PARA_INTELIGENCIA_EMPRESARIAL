@@ -136,7 +136,7 @@ export default {
     {
       tema: 'Seguimiento y evaluación del proceso de servicio al cliente',
       referencia:
-        'Dorna, J. (2022). <i>¿Por qué la Innovación es importante en la Experiencia de Cliente? WOW! Customer Experience.</i>',
+        'Dorna, J. (2022). <i>¿Por qué la Innovación es importante en la Experiencia de Cliente? WOW!</i> Customer Experience.',
       tipo: 'Artículo',
       link:
         'https://www.wowcx.com/por-que-la-innovacion-es-importante-en-la-cx/ ',
@@ -187,11 +187,6 @@ export default {
         'estrategia de mercadeo que busca captar y retener clientes.',
     },
     {
-      termino: 'Fidelización',
-      significado:
-        'estrategia de mercadeo que busca captar y retener clientes.',
-    },
-    {
       termino: 'Gestión de la calidad',
       significado:
         'proceso de mejora constante que, además, sea compatible con los otros sistemas de control y mejora de la empresa.',
@@ -228,7 +223,7 @@ export default {
     },
     {
       referencia:
-        'QuestionPro. (s.f.). SistemaPQRS: <i>¿Qué es y cuáles son sus características?</i>',
+        'QuestionPro. (s.f.). <i>SistemaPQRS: ¿Qué es y cuáles son sus características?</i>',
       link: 'https://www.questionpro.com/blog/es/sistema-pqrs/ ',
     },
   ],

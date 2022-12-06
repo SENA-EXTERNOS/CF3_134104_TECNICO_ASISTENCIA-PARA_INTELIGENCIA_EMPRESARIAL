@@ -24,7 +24,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
           .row(titulo="Trazabilidad").px-5.py-2.bg2
             .row
-              p.text-justify La trazabilidad consiste en la trayectoria o recorrido que ha tenido el producto o servicio hasta llegar al cliente; este trayecto es de suma importancia al momento de evaluar el proceso de servicio, porque al estar documentado mediante actas o informes cortos, brinda las herramientas necesarias para encontrar hallazgos que permitan mejorar el mismo, o resolver imprevistos ocurrido en la prestación del servicio.
+              p.text-justify La trazabilidad consiste en la trayectoria o recorrido que ha tenido el producto o servicio hasta llegar al cliente; este trayecto es de suma importancia al momento de evaluar el proceso de servicio, porque al estar documentado mediante actas o informes cortos, brinda las herramientas necesarias para encontrar hallazgos que permitan mejorar el mismo, o resolver imprevistos ocurridos en la prestación del servicio.
           div(titulo="NTC GTC 185").px-5.py-3
             .row
               p.text-justify Documentar el proceso tiene una solidez importante, especialmente si la empresa ha implementado el sistema de gestión de la calidad, donde cobra importancia la NTC GTC 185 Norma Técnica Colombiana de Documentación Organizacional, donde se establece con claridad, la necesidad de los documentos pertinentes en cada gestión y cómo deben llevarse de manera ordenada y técnica, a fin de dar cuenta de las actividades y determinaciones tomadas en la actividad empresarial.
@@ -103,6 +103,13 @@
                 i.lista-ul__vineta
                 | Desecho del producto: tiempo en que el cliente usa el producto, si lo revende o no y cuándo deja de usarlo.
 
+    .row.justify-content-center.mt-5  
+      .col-md-11
+        .cajon.tarjeta-radius.color-acento-contenido.cajon-second-color.p-3
+          .row.justify-content-center.p-4                
+            p Teniendo en cuenta la valoración y el seguimiento que se realiza a los clientes, se desprende un factor importante para la empresa u organización y es la #[span.text-bold fidelización de clientes], la cual hace referencia al conjunto de estrategias, técnicas y acciones de #[i marketing], ventas y de servicio al cliente, que una empresa emplea para retener clientes y hacer que estos opten por comprar sus productos o servicios de forma habitual.
+
+
     .row.align-items-end.bg3.h4.p-3.mt-5 Aplicaciones e instrumentos en el servicio al cliente
     .row.justify-content-center.mt-5
       .col-md-10
@@ -124,7 +131,7 @@
     p.mb-5 Se presentan entonces, algunos instrumentos que facilitan medir la satisfacción del cliente.
 
     .row.justify-content-center
-      .col-md-12
+      .col-md-11
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
@@ -140,7 +147,7 @@
           .tarjeta.color-secundario.p-3(x="54%" y="10%" numero="+")
             p Para recoger la opinión inmediata de los clientes sobre su interacción con el equipo de soporte, las consultas de facturación con el área de contabilidad, etc.
           .tarjeta.color-secundario.p-3(x="65%" y="10%" numero="+")
-            p Los mensajes de texto son resueltos cn mayor agilidad por los usuarios y clientes.
+            p Los mensajes de texto son resueltos con mayor agilidad por los usuarios y clientes.
           .tarjeta.color-secundario.p-3(x="76%" y="10%" numero="+")
             p Es el porcentaje de consumidores que se pierde con el tiempo.
           .tarjeta.color-secundario.p-3(x="88%" y="10%" numero="+")
