@@ -24,17 +24,19 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
           .row(titulo="Trazabilidad").px-5.py-2.bg2
             .row
-              p.text-justify La trazabilidad consiste en la trayectoria o recorrido que ha tenido el producto o servicio hasta llegar al cliente; este trayecto es de suma importancia al momento de evaluar el proceso de servicio, porque al estar documentado mediante actas o informes cortos, brinda las herramientas necesarias para encontrar hallazgos que permitan mejorar el mismo, o resolver imprevistos ocurridos en la prestación del servicio.
+              p.text-justify Consiste en la trayectoria o recorrido que ha tenido el producto o servicio hasta llegar al cliente; este trayecto es de suma importancia al momento de evaluar el proceso de servicio, porque al estar documentado mediante actas o informes cortos, brinda las herramientas necesarias para encontrar hallazgos que permitan mejorar el mismo, o resolver imprevistos ocurridos en la prestación del servicio.
+
           div(titulo="NTC GTC 185").px-5.py-3
             .row
               p.text-justify Documentar el proceso tiene una solidez importante, especialmente si la empresa ha implementado el sistema de gestión de la calidad, donde cobra importancia la NTC GTC 185 Norma Técnica Colombiana de Documentación Organizacional, donde se establece con claridad, la necesidad de los documentos pertinentes en cada gestión y cómo deben llevarse de manera ordenada y técnica, a fin de dar cuenta de las actividades y determinaciones tomadas en la actividad empresarial.
           div(titulo="Documentación").px-5.py-3
             .row
-              p.text-justify La documentación del proceso de evaluación de servicio al cliente, es toda aquella que se ha vinculado en el mismo, como evidencia de la prestación de servicio y todo lo que implica la atención al cliente; está enmarcado en el sistema de gestión de calidad en lo referente al proceso de servicio al cliente; en caso de no contar con este, la empresa debe contar con un manual de gestión, donde, apoyado por un proceso, procedimiento, etiqueta y protocolo, da vida a este proceso e implícitamente deberá definir aspectos como la documentación que se deberá utilizar en las diferentes etapas de este proceso.
+              p.text-justify Es toda aquella documentación que se ha vinculado como evidencia de la prestación de servicio y todo lo que implica la atención al cliente; está enmarcada en el sistema de gestión de calidad, en lo referente al proceso de servicio al cliente; en caso de no contar con este, la empresa debe contar con un manual de gestión, donde, apoyado por un proceso, procedimiento, etiqueta y protocolo, da vida a este proceso e implícitamente deberá definir aspectos como la documentación que se deberá utilizar en las diferentes etapas de este proceso.
+
 
     .row.align-items-end.bg3.h4.p-3.mt-5 Indicadores de gestión
     p.mt-5.mb-5 La valoración y seguimiento de la trayectoria del cliente tiene un fin específico: hallar nuevas oportunidades para mejorar el relacionamiento con el cliente a través del conocimiento de su comportamiento, el cual puede mejorarse y llegar a un incremento en la tasa de conversión de contactos a ventas efectivas.
-    p.mb-5 Para realizar esa valoración y seguimiento, se tienen los siguientes indicadores aplicables.
+    p.mb-5 Para realizar esa valoración y seguimiento, se tienen los siguientes indicadores aplicables:
 
     TabsC.color-acento-botones.mb-5.bg2
       .py-3.py-md-4(titulo="Rendimiento percibido")
@@ -128,7 +130,8 @@
 
     .row.align-items-end.bg3.h4.p-3.mt-5 Instrumentos para medir la satisfacción del cliente
     p.mt-5.mb-5 Después de conocer las aplicaciones con las cuales se puede realizar un seguimiento al cliente, es necesario tener un soporte tecnológico que permita obtener información, ordenarla, clasificarla y generar conclusiones para conocer más acerca del perfil del cliente. Sin embargo, para las empresas se vuelve dispendioso, demorado y engorroso, llevar estos procesos manualmente, por lo que se hace necesaria la automatización de estos.
-    p.mb-5 Se presentan entonces, algunos instrumentos que facilitan medir la satisfacción del cliente.
+
+    p.mb-5 Se presentan entonces, algunos instrumentos que facilitan medir la satisfacción del cliente:
 
     .row.justify-content-center
       .col-md-11
@@ -136,21 +139,21 @@
           template(v-slot:imagen)
             figure
                 img(src='@/assets/curso/temas/tema2/img8.png', alt='')
-          .tarjeta.color-secundario.p-3(x="9%" y="10%" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="9%" y="10%" numero="+")
             p Analiza la lealtad de los clientes y se utiliza regularmente en las encuestas de satisfacción.
-          .tarjeta.color-secundario.p-3(x="20%" y="10%" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="20%" y="10%" numero="+")
             p Herramienta ideal para comprometerse con los clientes y recolectar comentarios de calidad.
-          .tarjeta.color-secundario.p-3(x="31%" y="10%" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="31%" y="10%" numero="+")
             p Las publicaciones en Facebook, Instagram, LinkedIn o Twitter, son ágiles porque la participación del cliente puede realizarse solo con una reacción emotiva.
-          .tarjeta.color-secundario.p-3(x="42%" y="10%" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="42%" y="10%" numero="+")
             p Son una rica fuente de información. Se puede conocer lo que los visitantes o clientes están buscando, lo que esperan, etc.
-          .tarjeta.color-secundario.p-3(x="54%" y="10%" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="54%" y="10%" numero="+")
             p Para recoger la opinión inmediata de los clientes sobre su interacción con el equipo de soporte, las consultas de facturación con el área de contabilidad, etc.
-          .tarjeta.color-secundario.p-3(x="65%" y="10%" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="65%" y="10%" numero="+")
             p Los mensajes de texto son resueltos con mayor agilidad por los usuarios y clientes.
-          .tarjeta.color-secundario.p-3(x="76%" y="10%" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="76%" y="10%" numero="+")
             p Es el porcentaje de consumidores que se pierde con el tiempo.
-          .tarjeta.color-secundario.p-3(x="88%" y="10%" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="88%" y="10%" numero="+")
             p Funcionan como redireccionamiento a páginas emergentes que faciliten la navegación en el sitio al cliente.
 
     p.mt-5.mb-5  Finalmente, en la evaluación y seguimiento de servicio al cliente, se hace necesario consolidar este procedimiento, en un #[span.text-bold informe de evaluación del proceso], el cual debe atender los requerimientos que, al respecto, se hayan definido en el proceso que lleva este nombre, e incluido en el manual de calidad o documento correspondiente al sistema de gestión de la calidad, así como también la NTC GTC 185 de documentación organizacional.           
@@ -179,7 +182,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img10.png')})`}"
             )                             
             .bloque-texto-g__texto.p-4
-              p Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, el material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+              p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, el material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
 
 </template>
 

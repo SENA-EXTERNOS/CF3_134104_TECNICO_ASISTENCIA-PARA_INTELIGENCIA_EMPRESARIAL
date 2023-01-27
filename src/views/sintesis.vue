@@ -5,7 +5,7 @@
 
     
     p.mt-5.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
-
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

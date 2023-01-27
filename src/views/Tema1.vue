@@ -17,7 +17,7 @@
               img(src="@/assets/curso/temas//tema1/img1.png", alt="alt")
 
     p.mt-5.mb-5  En la atención al cliente, se define una serie de procesos y procedimientos que se consignan en un manual de gestión de la calidad para darle asistencia; se define el protocolo y se establece la etiqueta que deben conocer los representantes de servicio al cliente, con el fin de brindar una atención exitosa. Todos estos son componentes considerados #[span.text-bold actividades claves] para el desarrollo del proceso de atención al usuario.              
-    p.mb-5 A continuación, se hará énfasis en cada uno de los aspectos de estos eslabones o actividades claves de la cadena del servicio que se considera estratégico.
+    p.mb-5 A continuación, se hará énfasis en cada uno de los aspectos de estos eslabones o actividades claves de la cadena del servicio que se considera estratégico:
 
     .row.justify-content-center.mt-5
       .col-md-8
@@ -39,7 +39,8 @@
               p.text-justify La estrategia de servicio al cliente es fundamental para orientar a la organización hacia un exitoso servicio y debe iniciar con la humanización del mismo, lo que implica que, a pesar de existir un procedimiento, un protocolo, un manual y una gestión de la calidad del servicio al cliente, es necesario actuar de manera natural y genuina, eliminando cualquier intento de automatización, y se aporte siempre ese trato personalizado y humano optimizando las redes sociales, ofreciendo diferentes opciones en canales que sean diseñados para un servicio efectivo, dando a conocer al cliente las diferentes opciones con las que cuenta de una manera perseverante y evidenciando esa prestación de servicio efectivo en los diferentes canales dispuestos, asegurando que siempre existe disponibilidad para atender y comunicarse con el cliente, lo que se logrará creando comunidades con acceso a diferentes estrategias de #[i marketing] y brindando un servicio satisfactorio para el cliente.
           div(titulo="Compromiso de los representantes de servicio").px-5.py-3
             .row
-              p.text-justify Para tener un equipo de trabajo dispuesto, es necesario que se encuentre motivado; de aquí la importancia de conocer cómo se sienten los representantes con las condiciones laborales, así como también su opinión frente al proceso de servicio al cliente, dando siempre la oportunidad de una mejora continua interna, lo que hace que sean tenidos en cuenta; si la empresa está interesada en mantener su equipo de trabajo, se esforzará por mejorar las condiciones de vinculación y estancia de los colaboradores, tanto en la cultura organizacional como en su crecimiento personal; esto generará un efecto positivo en cada cliente, al sentirse parte esencial de la organización y al encontrar el compromiso para brindarle una mejor experiencia.
+              p.text-justify Para tener un equipo de trabajo dispuesto, es necesario que se encuentre motivado; de aquí, la importancia de conocer cómo se sienten los representantes con las condiciones laborales, así como también su opinión frente al proceso de servicio al cliente, dando siempre la oportunidad de una mejora continua interna, lo que hace que sean tenidos en cuenta; si la empresa está interesada en mantener su equipo de trabajo, se esforzará por mejorar las condiciones de vinculación y estancia de los colaboradores, tanto en la cultura organizacional como en su crecimiento personal; esto generará un efecto positivo en cada cliente, al sentirse parte esencial de la organización y al encontrar el compromiso para brindarle una mejor experiencia.
+
           div(titulo="<i>Feedback</i> del cliente").px-5.py-3
             .row
               p.text-justify Disponer instrumentos que le permitan al cliente expresar sus opiniones, será un activo invaluable que evitará el deterioro de la imagen hacia afuera y la pérdida de clientes; conocer las percepciones de los clientes de manera continua, mediante una llamada, encuesta o formulario, siempre dará motivos para buscar la excelencia hasta llegar a su fidelización.
@@ -66,19 +67,19 @@
     p.mt-5.mb-5 Dentro de la clasificación de los CRM se tiene lo siguiente:
     .row.justify-content-center
       .col-md-9
-        ImagenInfograficaB.color-acento-botones
+        ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
                 img(src='@/assets/curso/temas/tema1/img4.png', alt='')
-          div(x="14%" y="102%" tooltip="CRM operativo" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="14%" y="102%" numero="+")
             p Es un sistema de relacionamiento con el cliente que automatiza tareas operativas y repetitivas, optimizando el nivel de trabajo. Es utilizado por vendedores, analistas de #[i marketing] y agentes de soporte, integrando el acceso a la información del cliente y permitiendo realizar las tareas de manera eficiente.   
-          div(x="50%" y="102%" tooltip="CRM analítico" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="50%" y="102%" numero="+")
             p Se enfoca en la recolección, almacenamiento y análisis de toda la información que gestiona la organización, mediante su relacionamiento con el cliente, con el fin de transformarla de conocimiento acumulado a información útil para incrementar la calidad de la experiencia del cliente. A través de él, se realiza la segmentación del mercado, se monitorean hábitos de consumo y se crean ofertas más atractivas para los clientes.
-          div(x="86%" y="102%" tooltip="CRM colaborativo" numero="+")
+          .tarjeta.color-acento-botones.p-3(x="86%" y="102%" numero="+")
             p El CRM colaborativo con el fin de brindar mayor dinamismo a la interacción entre colaboradores, permite que los profesionales o partes interesadas de cuentas y ventas, así como los agentes de soporte, accedan a la información actualizada sin limitaciones u obstáculos manteniendo, de esta manera, una comunicación fluida.
 
     p.mt-5.mb-5 En general, el CRM está enfocado en agilizar los procesos de la organización, mientras se nutre la relación con el cliente y su experiencia de marca, a través de la construcción de una relación personalizada y cercana, que se fortalece al compartir con otras áreas, de manera instantánea, todo el conocimiento que se tiene acerca del cliente, brindando así experiencias personalizadas.
-    p.mb-5 A continuación, se presentan las ventajas que tienen los CRM.
+    p.mb-5 Observe las ventajas que tienen los CRM:
     .row.justify-content-center.mt-5    
       .col-md-12
         PasosA.color-acento-contenido.mb-5(tipo="n")
@@ -185,7 +186,7 @@
           p.text-center No solamente cuando se presenta una insatisfacción, sino cuando desea dar su opinión, que deben ser valoradas, cuantificadas y analizadas, de manera que sean otro medio para identificar posibles irregularidades o aspectos por mejorar en la organización.
 
     p.mt-5.mb-5 Teniendo en cuenta las características del PQRSF, se pueden destacar ciertos beneficios a la hora de utilizar este sistema para ofrecer un buen servicio al cliente.
-    p.mb-5 A continuación, se presentan las ventajas que ofrece el PQRSF.
+    p.mb-5 A continuación, se presentan las ventajas que ofrece el PQRSF:
 
     .row.justify-content-center.mt-5    
       .col-md-12
@@ -214,7 +215,7 @@
       h2 1.2 Estrategia del proceso de servicio al cliente  
 
     p.mt-5.mb-5 La estrategia del proceso de servicio al cliente, se consolida en el poder que determina la decisión de elegir un camino de acción, consolidándose como una estrategia competitiva que trabaja por la permanencia de los clientes y la trayectoria de la organización. Esta estrategia es fundamental en el triángulo de servicio, como uno de sus componentes, lo que indica que es una columna del servicio y para el caso de la gestión de la calidad en el servicio es un aspecto clave que permite definir con claridad los requisitos del producto o servicio que se ofrece y que a través de un proceso sistémico, lo obliga a mejorar siempre; de esta manera, la gestión de los procesos de calidad conlleva, implícitamente, a la satisfacción del cliente. 
-    p.mb-5 A continuación, se conocerá la importancia que tiene esta estrategia en la gestión de la calidad.
+    p.mb-5 Conozca la importancia que tiene esta estrategia en la gestión de la calidad:
 
     .tarjeta.color-borde-slider.color-slider.bg2.p-3.mt-5
       SlyderA(tipo="b")
@@ -271,7 +272,8 @@
             p #[span.text-bold Los resultados y productos de servicio al cliente] siempre estarán orientados a la mejora continua del proceso de atención, como de la organización en sí misma; así que, cualquiera que sea el resultado de la evaluación y servicio al cliente, siempre será una oportunidad para que la organización afine sus estrategias, encamine sus esfuerzos y continúe al siguiente nivel de la atención al cliente, al punto de brindar una mejor calidad de experiencia al cliente.
 
     p.mt-5.mb-5  Para lograrlo, es necesario acudir a la tecnología e innovación, lo que siempre brindará momentos de verdad satisfactorios al cliente, quien encontrará servicios asequibles y ágiles, donde es el protagonista de un cambio y una nueva dimensión de servicio al cliente.
-    p.mb-5 En el marco del proceso de servicio al cliente, es pertinente dar respuesta a las siguientes preguntas.           
+    p.mb-5 En el marco del proceso de servicio al cliente, es pertinente dar respuesta a las siguientes preguntas:
+
     .row.justify-content-center.bg4.mg-img.mt-5.mb-5.mg-img-final
       .row.justify-content-center.mt-5
         .col-md-10
@@ -282,9 +284,10 @@
                 p.text-justify Para atender todas las emergencias que se puedan presentar, es necesario tener un #[span.text-bold plan de contingencias] el cual debe estar detallado al punto de contar con un presupuesto el cual debe ser actualizado periódicamente, de manera que responda a los riesgos y retos del entorno. 
             div(titulo="¿Cómo funciona el principio de Fisher en el servicio al cliente?").px-5.py-3.bg2
               .row
-                p.text-justify Este principio reconoce la aparición del sector terciario donde se elaboran productos y servicios de excelente calidad con el fin de atender las necesidades de los clientes, haciendo del servicio un desafío que brinda experiencias e implica tener cuidado desde el más mínimo detalle, hasta el uso o función que cumplirá el producto o servicio adquirido por el cliente. 
-                p.text-justify Esta proposición busca brindar “experiencias” al cliente que le motiven a pagar por la satisfacción de sentir, de vivir, de transformarse, de hacer actividades que impliquen la estimulación sensorial, siendo este, el factor clave; entre más sentidos se involucren en la experiencia, mayor será la satisfacción y la recordación de la vivencia obtenida. 
-                p.text-justify Este hace que sea importante fabricar experiencias que se asemejan, como a una función de teatro, donde cuenta la escenografía, el #[i set], los actores, la iluminación, el vestuario, el guion, el director; de esta misma manera, se debe cuidar que la atención al cliente deje en su memoria la satisfacción del esfuerzo por atenderlo, tal como lo merece, de acuerdo con su importancia, dando origen a la experiencia del cliente.
+                p.text-justify Este principio reconoce la aparición del sector terciario donde se elaboran productos y servicios de excelente calidad, con el fin de atender las necesidades de los clientes, haciendo del servicio un desafío que brinda experiencias e implica tener cuidado desde el más mínimo detalle, hasta el uso o función que cumplirá el producto o servicio adquirido por el cliente. 
+                p.text-justify Esta proposición busca brindar “experiencias” al cliente, que le motiven a pagar por la satisfacción de sentir, de vivir, de transformarse, de hacer actividades que impliquen la estimulación sensorial, siendo este, el factor clave; entre más sentidos se involucren en la experiencia, mayor será la satisfacción y la recordación de la vivencia obtenida. 
+                p.text-justify Este hace que sea importante fabricar experiencias que se asemejan, como a una función de teatro, donde cuenta la escenografía, el set, los actores, la iluminación, el vestuario, el guion, el director; de esta misma manera, se debe cuidar que la atención al cliente deje en su memoria, la satisfacción del esfuerzo por atenderlo, tal como lo merece, de acuerdo con su importancia, dando origen a la experiencia del cliente.
+
             div(titulo="¿Cuál es la importancia de los sistemas de información en el servicio al cliente? ").px-5.py-3.bg2
               .row
                 p.text-justify El sistema de información es el soporte tecnológico que requiere el proceso de servicio al cliente, donde se deben integrar los diferentes canales dispuestos con este fin, dentro de los cuales se encuentran la asistente personal, teléfono, URA (Unidad de Respuesta Audible), #[i e-mail, chat], autoservicio, aplicaciones de mensajería, SMS y redes sociales; a través de estos, se recepcionan las peticiones, quejas, reclamos, sugerencias y felicitaciones para ser clasificadas, estudiadas y analizadas. Los sistemas de información cumplen la función de captar datos, los cuales luego de ser ordenados, clasificados y almacenados, darán cuenta si el desempeño de la organización alcanza los objetivos, propuestos, si es información interna, y de la participación en el mercado, la diferenciación en su estrategia de competitividad y el crecimiento en clientes y reconocimiento, entre otros, si la información es externa.

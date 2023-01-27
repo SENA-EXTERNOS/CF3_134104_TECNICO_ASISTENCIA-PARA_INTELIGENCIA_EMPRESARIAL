@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Seguimiento y evaluación del proceso de servicio al cliente',
     descripcionCurso:
-      'En este componente formativo, se plantea una estrategia competitiva sobre la prestación del servicio al cliente, con la finalidad de lograr el cumplimiento de los requerimientos, la satisfacción y la fidelización de los clientes. De esta manera, se garantiza la trayectoria y permanencia de la organización en el entorno y en el sector al que pertenece.',
+      'En este componente formativo, se plantea una estrategia competitiva sobre la prestación del servicio al cliente, con la finalidad de lograr el cumplimiento de los requerimientos, la satisfacción y la fidelización de estos. De esta manera, se garantiza la trayectoria y permanencia de la organización en el entorno y en el sector al que pertenece.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -205,25 +205,25 @@ export default {
   referencias: [
     {
       referencia:
-        'López, P. (2014). <i>Cómo gestionar las reclamaciones de sus clientes. Editorial AENOR.</i>',
+        'López, P. (2014). <em>Cómo gestionar las reclamaciones de sus clientes</em>. Editorial AENOR.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/53599?page=5',
     },
     {
       referencia:
-        'Mateos, M. (2019).<i> Atención al Cliente y Calidad en el Servicio.</i> IC Editorial. ',
+        'Mateos, M. (2019). <em>Atención al Cliente y Calidad en el Servicio</em>. IC Editorial.',
       link:
-        'https://login.bdigital.sena.edu.co/login?qurl=https://elibro.net%2fes%2fereader%2fsenavirtual%2f124251 ',
+        'https://login.bdigital.sena.edu.co/login?qurl=https://elibro.net%2fes%2fereader%2fsenavirtual%2f124251',
     },
     {
       referencia:
-        'QuestionPro. (s.f.). <i>Manual de Servicio al Cliente: Qué es y cómo crearlo.</i>',
+        'QuestionPro. (s.f.). <em>Manual de Servicio al Cliente: Qué es y cómo crearlo.</em> ',
       link:
         'https://www.questionpro.com/blog/es/manual-de-servicio-al-cliente/',
     },
     {
       referencia:
-        'QuestionPro. (s.f.). <i>SistemaPQRS: ¿Qué es y cuáles son sus características?</i>',
+        'QuestionPro. (s.f.). <em>SistemaPQRS: ¿Qué es y cuáles son sus características?</em>',
       link: 'https://www.questionpro.com/blog/es/sistema-pqrs/ ',
     },
   ],
