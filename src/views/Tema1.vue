@@ -221,7 +221,7 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Ciclo Deming
+            h4 Ciclo <em>Deming</em>
             p En la siguiente imagen, podrá conocer los principios de la gestión de la calidad y cómo se relacionan con los requerimientos y satisfacción del cliente.
           .col-md-6
             figure
@@ -282,11 +282,11 @@
               .row
                 p.text-justify En el servicio al cliente, al igual que en la dinámica organizacional, siempre se presentarán imprevistos que pueden, en ocasiones, generar dificultades y otros que tendrán una solución al instante; por esta razón, al definir la estrategia de servicio al cliente, así como el proceso de gestión, el modelo, procesos, procedimientos de servicio, entre otros, es necesario definir el alcance de este proceso e identificar las desviaciones o problemas potenciales que se pueden presentar, a fin de definir las contingencias o posibles soluciones.
                 p.text-justify Para atender todas las emergencias que se puedan presentar, es necesario tener un #[span.text-bold plan de contingencias] el cual debe estar detallado al punto de contar con un presupuesto el cual debe ser actualizado periódicamente, de manera que responda a los riesgos y retos del entorno. 
-            div(titulo="¿Cómo funciona el principio de Fisher en el servicio al cliente?").px-5.py-3.bg2
+            div(titulo="¿Cómo funciona el principio de <em>Fisher</em> en el servicio al cliente?").px-5.py-3.bg2
               .row
                 p.text-justify Este principio reconoce la aparición del sector terciario donde se elaboran productos y servicios de excelente calidad, con el fin de atender las necesidades de los clientes, haciendo del servicio un desafío que brinda experiencias e implica tener cuidado desde el más mínimo detalle, hasta el uso o función que cumplirá el producto o servicio adquirido por el cliente. 
                 p.text-justify Esta proposición busca brindar “experiencias” al cliente, que le motiven a pagar por la satisfacción de sentir, de vivir, de transformarse, de hacer actividades que impliquen la estimulación sensorial, siendo este, el factor clave; entre más sentidos se involucren en la experiencia, mayor será la satisfacción y la recordación de la vivencia obtenida. 
-                p.text-justify Este hace que sea importante fabricar experiencias que se asemejan, como a una función de teatro, donde cuenta la escenografía, el set, los actores, la iluminación, el vestuario, el guion, el director; de esta misma manera, se debe cuidar que la atención al cliente deje en su memoria, la satisfacción del esfuerzo por atenderlo, tal como lo merece, de acuerdo con su importancia, dando origen a la experiencia del cliente.
+                p.text-justify Este hace que sea importante fabricar experiencias que se asemejan, como a una función de teatro, donde cuenta la escenografía, el <em>set</em>, los actores, la iluminación, el vestuario, el guión, el director; de esta misma manera, se debe cuidar que la atención al cliente deje en su memoria, la satisfacción del esfuerzo por atenderlo, tal como lo merece, de acuerdo con su importancia, dando origen a la experiencia del cliente.
 
             div(titulo="¿Cuál es la importancia de los sistemas de información en el servicio al cliente? ").px-5.py-3.bg2
               .row
