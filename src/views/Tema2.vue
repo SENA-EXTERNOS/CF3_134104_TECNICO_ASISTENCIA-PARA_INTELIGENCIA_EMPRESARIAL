@@ -125,7 +125,7 @@
     p.mt-5.mb-5 Aplicaciones para realizar el seguimiento en el servicio al cliente:
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/BVnZQGT4osA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video             
 
     .row.align-items-end.bg3.h4.p-3.mt-5 Instrumentos para medir la satisfacción del cliente
