@@ -75,7 +75,7 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema2/img5.png', alt='').img400.m-auto
           .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0
-            p Los niveles de satisfacción se refieren al nivel de conformidad acerca de una compra o un servicio, disfrutando, los cuales se evalúan en estos niveles:
+            p Los niveles de satisfacción se refieren al nivel de conformidad acerca de una compra o un servicio, los cuales se evalúan en estos niveles:
             ul.lista-ul
               li
                 i.lista-ul__vineta
@@ -97,13 +97,13 @@
             ul.lista-ul
               li
                 i.lista-ul__vineta
-                | Comportamiento de compra: cuándo se realiza la compra y el medio de pago.
+                | Comportamiento de compra: se realiza la compra y el medio de pago.
               li
                 i.lista-ul__vineta
                 | Uso del producto: frecuencia con que el cliente usa el producto y si está satisfecho con la compra.
               li
                 i.lista-ul__vineta
-                | Desecho del producto: tiempo en que el cliente usa el producto, si lo revende o no y cuándo deja de usarlo.
+                | Desecho del producto: tiempo en que el cliente usa el producto, si lo revende o no y deja de usarlo.
 
     .row.justify-content-center.mt-5  
       .col-md-11
@@ -144,7 +144,7 @@
           .tarjeta.color-acento-botones.p-3(x="20%" y="10%" numero="+")
             p Herramienta ideal para comprometerse con los clientes y recolectar comentarios de calidad.
           .tarjeta.color-acento-botones.p-3(x="31%" y="10%" numero="+")
-            p Las publicaciones en Facebook, Instagram, LinkedIn o Twitter, son ágiles porque la participación del cliente puede realizarse solo con una reacción emotiva.
+            p Las publicaciones en #[i Facebook, Instagram, LinkedIn o Twitter], son ágiles porque la participación del cliente puede realizarse solo con una reacción emotiva.
           .tarjeta.color-acento-botones.p-3(x="42%" y="10%" numero="+")
             p Son una rica fuente de información. Se puede conocer lo que los visitantes o clientes están buscando, lo que esperan, etc.
           .tarjeta.color-acento-botones.p-3(x="54%" y="10%" numero="+")

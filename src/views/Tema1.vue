@@ -117,16 +117,16 @@
     p.mb-5 Estas solicitudes se realizan según la clasificación que considere el cliente y de acuerdo con:
     .row.justify-content-center.mt-5 
       .col-md-7
-        TabsA.color-acento-botones.mt-5.mb-5
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Petición")
+        TabsC.color-acento-botones.mt-5.mb-5
+          .tarjeta.color-borde-slider.color-slider.p-4.mb-4(titulo="Petición")
             p Solicitud presentada de manera verbal o escrita, donde se requiere que la empresa intervenga en un asunto puntual que puede ser entregar una información o realizar alguna actividad.
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Queja")
+          .tarjeta.color-borde-slider.color-slider.p-4.mb-4(titulo="Queja")
             p Es el disgusto que tiene el cliente, presentado a través de una inconformidad sobre algún colaborador o proceso de la organización.
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Reclamo")
+          .tarjeta.color-borde-slider.color-slider.p-4.mb-4(titulo="Reclamo")
             p Es la solicitud o demanda que realiza el cliente por el inconformismo sobre el incumplimiento a un derecho adquirido que ha sido vulnerado por una mala atención, o por fallas en el producto.
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Sugerencia")
+          .tarjeta.color-borde-slider.color-slider.p-4.mb-4(titulo="Sugerencia")
             p Es una recomendación escrita o verbal, que realiza el cliente con el fin de aportar al mejoramiento del producto o servicio ofertados.
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Felicitaciones")
+          .tarjeta.color-borde-slider.color-slider.p-4.mb-4(titulo="Felicitaciones")
             p Al esforzarse por prestar un excelente servicio al cliente, la empresa recibirá el reconocimiento por este arduo trabajo de permanente mejora y constancia persistente, donde el cliente reconocerá esta labor y expresará su comodidad y gratitud por los productos y servicio ofertados.
       .col-md-5.mt-5 
         figure(data-aos="zoom-in")
@@ -153,37 +153,37 @@
 
     .row.justify-content-center.mb-5
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4
+        .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4.h-100
           .row.justify-content-center.mb-5
             .col-5
               figure
                 img(src='@/assets/curso/temas/tema1/img11.png', alt='alt')
           h3.text-center Omnicanalidad
-          p.text-center Es una estrategia que brinda al cliente diversas oportunidades de comunicarse con la empresa o estar activamente vinculado al alcance de un clic, brindando la comodidad de realizar sus solicitudes mediante una herramienta virtual sin salir de la comodidad de su hogar. (QuestionPro, s.f.)
+          p.mb-0.text-center Es una estrategia que brinda al cliente diversas oportunidades de comunicarse con la empresa o estar activamente vinculado al alcance de un clic, brindando la comodidad de realizar sus solicitudes mediante una herramienta virtual sin salir de la comodidad de su hogar. (QuestionPro, s.f.)
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4
+        .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4.h-100
           .row.justify-content-center.mb-5
             .col-5
               figure
                 img(src='@/assets/curso/temas/tema1/img12.png', alt='alt')
           h3.text-center Servicio humanizado
-          p.text-center Implica contar con la disposición, el tiempo, la paciencia y de habilidades como la escucha activa, para ofrecer al cliente la importancia que merece cuando presenta sus inconformidades, indiferente del canal que utilice para hacerlo.
+          p.mb-0.text-center Implica contar con la disposición, el tiempo, la paciencia y de habilidades como la escucha activa, para ofrecer al cliente la importancia que merece cuando presenta sus inconformidades, indiferente del canal que utilice para hacerlo.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4
+        .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4.h-100
           .row.justify-content-center.mb-5
             .col-5
               figure
                 img(src='@/assets/curso/temas/tema1/img13.png', alt='alt')
           h3.text-center Encuestas de satisfacción 
-          p.text-center Permiten monitorear el éxito de saber percibir al cliente en cuanto a los servicios y productos ofrecidos en la empresa, llevando un seguimiento de todas las operaciones comerciales realizadas por el cliente.
+          p.mb-0.text-center Permiten monitorear el éxito de saber percibir al cliente en cuanto a los servicios y productos ofrecidos en la empresa, llevando un seguimiento de todas las operaciones comerciales realizadas por el cliente.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4
+        .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4.h-100
           .row.justify-content-center.mb-5
             .col-5
               figure
                 img(src='@/assets/curso/temas/tema1/img14.png', alt='alt')
           h3.text-center Valorar la percepción del cliente  
-          p.text-center No solamente cuando se presenta una insatisfacción, sino cuando desea dar su opinión, que deben ser valoradas, cuantificadas y analizadas, de manera que sean otro medio para identificar posibles irregularidades o aspectos por mejorar en la organización.
+          p.mb-0.text-center No solamente cuando se presenta una insatisfacción, sino cuando desea dar su opinión, que deben ser valoradas, cuantificadas y analizadas, de manera que sean otro medio para identificar posibles irregularidades o aspectos por mejorar en la organización.
 
     p.mt-5.mb-5 Teniendo en cuenta las características del PQRSF, se pueden destacar ciertos beneficios a la hora de utilizar este sistema para ofrecer un buen servicio al cliente.
     p.mb-5 A continuación, se presentan las ventajas que ofrece el PQRSF:
@@ -286,11 +286,11 @@
               .row
                 p.text-justify Este principio reconoce la aparición del sector terciario donde se elaboran productos y servicios de excelente calidad, con el fin de atender las necesidades de los clientes, haciendo del servicio un desafío que brinda experiencias e implica tener cuidado desde el más mínimo detalle, hasta el uso o función que cumplirá el producto o servicio adquirido por el cliente. 
                 p.text-justify Esta proposición busca brindar “experiencias” al cliente, que le motiven a pagar por la satisfacción de sentir, de vivir, de transformarse, de hacer actividades que impliquen la estimulación sensorial, siendo este, el factor clave; entre más sentidos se involucren en la experiencia, mayor será la satisfacción y la recordación de la vivencia obtenida. 
-                p.text-justify Este hace que sea importante fabricar experiencias que se asemejan, como a una función de teatro, donde cuenta la escenografía, el <em>set</em>, los actores, la iluminación, el vestuario, el guión, el director; de esta misma manera, se debe cuidar que la atención al cliente deje en su memoria, la satisfacción del esfuerzo por atenderlo, tal como lo merece, de acuerdo con su importancia, dando origen a la experiencia del cliente.
+                p.text-justify Este hace que sea importante fabricar experiencias que se asemejan, como a una función de teatro, donde cuenta la escenografía, el <em>set</em>, los actores, la iluminación, el vestuario, el guion, el director; de esta misma manera, se debe cuidar que la atención al cliente deje en su memoria, la satisfacción del esfuerzo por atenderlo, tal como lo merece, de acuerdo con su importancia, dando origen a la experiencia del cliente.
 
             div(titulo="¿Cuál es la importancia de los sistemas de información en el servicio al cliente? ").px-5.py-3.bg2
               .row
-                p.text-justify El sistema de información es el soporte tecnológico que requiere el proceso de servicio al cliente, donde se deben integrar los diferentes canales dispuestos con este fin, dentro de los cuales se encuentran la asistente personal, teléfono, URA (Unidad de Respuesta Audible), #[i e-mail, chat], autoservicio, aplicaciones de mensajería, SMS y redes sociales; a través de estos, se recepcionan las peticiones, quejas, reclamos, sugerencias y felicitaciones para ser clasificadas, estudiadas y analizadas. Los sistemas de información cumplen la función de captar datos, los cuales luego de ser ordenados, clasificados y almacenados, darán cuenta si el desempeño de la organización alcanza los objetivos, propuestos, si es información interna, y de la participación en el mercado, la diferenciación en su estrategia de competitividad y el crecimiento en clientes y reconocimiento, entre otros, si la información es externa.
+                p.text-justify El sistema de información es el soporte tecnológico que requiere el proceso de servicio al cliente, donde se deben integrar los diferentes canales dispuestos con este fin, dentro de los cuales se encuentran la asistente personal, teléfono, URA (Unidad de Respuesta Audible), #[i e-mail, chat], autoservicio, aplicaciones de mensajería, SMS y redes sociales; a través de estos, se recepcionan las peticiones, quejas, reclamos, sugerencias y felicitaciones para ser clasificadas, estudiadas y analizadas. Los sistemas de información cumplen la función de captar datos, los cuales luego de ser ordenados, clasificados y almacenados, darán cuenta si el desempeño de la organización alcanza los objetivos propuestos, si es información interna, y de la participación en el mercado, la diferenciación en su estrategia de competitividad y el crecimiento en clientes y reconocimiento, entre otros, si la información es externa.
 
 
 
